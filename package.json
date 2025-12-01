@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2025",
+  "module": "advent-of-code-2025",
+  "type": "module",
+  "scripts": {
+    "day": "bun src/advent-of-code.ts",
+    "fetch": "bun src/fetcher.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "packageManager": "bun@1.1.26",
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

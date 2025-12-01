@@ -1,0 +1,12 @@
+export { default as day1 } from "./01.ts";
+export { default as day2 } from "./02.ts";
+export { default as day3 } from "./03.ts";
+export { default as day4 } from "./04.ts";
+export { default as day5 } from "./05.ts";
+export { default as day6 } from "./06.ts";
+export { default as day7 } from "./07.ts";
+export { default as day8 } from "./08.ts";
+export { default as day9 } from "./09.ts";
+export { default as day10 } from "./10.ts";
+export { default as day11 } from "./11.ts";
+export { default as day12 } from "./12.ts";
